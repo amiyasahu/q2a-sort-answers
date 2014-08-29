@@ -4,7 +4,7 @@
         Plugin Name: Q2A Sort Answers
         Plugin URI: https://github.com/amiyasahu/q2a-sort-answers
         Plugin Update Check URI: https://raw.github.com/amiyasahu/q2a-sort-answers/master/qa-plugin.php
-        Plugin Description: Enables the answer sorting for q2a sites 
+        Plugin Description: Enables the answer sorting for q2a sites for current page
         Plugin Version: 1.0
         Plugin Date: 2014-08-27
         Plugin Author: Amiya Sahu
