@@ -8,7 +8,7 @@ This is a plugin for **Question2Answer** that has the capability to to sort answ
 
 Limitation 
 -----------
-As of now I will keep the plugin very simple and straight forward that sorts the answers of the current page only. If the answers is paginated it wont retrive the answers from the other pages to sort and display . 
+As of now I will keep the plugin very simple and straight forward that sorts the answers of the current page only. If the answers are paginated it wont retrive the answers from the other pages to sort and display . 
 
 Disclaimer
 ----------
