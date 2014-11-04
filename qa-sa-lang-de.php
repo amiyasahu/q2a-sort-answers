@@ -7,7 +7,7 @@
   
   http://www.question2answer.org/
   
-  File: qa-plugin/q2a-sort-answers/qa-sa-lang-ge.php
+  File: qa-plugin/q2a-sort-answers/qa-sa-lang-de.php
   Version: See define()s at top of qa-include/qa-base.php
 
   This program is free software; you can redistribute it and/or
